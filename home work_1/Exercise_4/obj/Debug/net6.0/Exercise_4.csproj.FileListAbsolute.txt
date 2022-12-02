@@ -1,0 +1,15 @@
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\bin\Debug\net6.0\Exercise_4.exe
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\bin\Debug\net6.0\Exercise_4.deps.json
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\bin\Debug\net6.0\Exercise_4.runtimeconfig.json
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\bin\Debug\net6.0\Exercise_4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\bin\Debug\net6.0\Exercise_4.pdb
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.AssemblyReference.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfoInputs.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.AssemblyInfo.cs
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\refint\Exercise_4.dll
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.pdb
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\Exercise_4.genruntimeconfig.cache
+C:\GeekBrains\Знакомство с языками\Seminar\Home work\home work_1\Exercise_4\obj\Debug\net6.0\ref\Exercise_4.dll
